@@ -17,6 +17,14 @@ body,html {
   justify-content: center;
 }
 
+.notes{
+  display: flex;
+  flex: 1;
+  min-height: 25vh;
+  align-items: center;
+  justify-content: center;
+}
+
 .key {
   border: .4rem solid black;
   border-radius: .5rem;
