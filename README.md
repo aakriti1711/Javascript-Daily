@@ -6,3 +6,4 @@ Daily challenges for Javascript for 30days.
 4. Array Cardio Part 1
 5. Flex Pane Gallery
 6. AJAX Type Ahead
+7. Array Cardio Day 7
