@@ -8,3 +8,4 @@ Daily challenges for Javascript for 30days.
 6. AJAX Type Ahead
 7. Array Cardio Day 7
 8. HTML 5 Canvas Day 8
+9. Hold Shift to check all checkbox
